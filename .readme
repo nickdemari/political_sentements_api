@@ -1,0 +1,27 @@
+# PoliticaPulse API
+
+The PoliticaPulse API is a powerful tool for analyzing political sentiments. It allows you to gather data on public opinions, sentiment analysis, and more. This README provides an overview of the API and instructions on how to get started.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [API Documentation](#api-documentation)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+To use the PoliticaPulse API, you will need an API key. You can obtain an API key by signing up on our website at [www.politicapulse.com](https://www.politicapulse.com).
+
+Once you have an API key, you can start making requests to the API. The base URL for all API endpoints is `https://api.politicapulse.com`.
+
+## API Documentation
+
+For detailed information on the available endpoints and request/response formats, please refer to the [API documentation](https://api.politicapulse.com/docs).
+
+## Examples
+
+Here are a few examples to help you get started:
+
+### Get sentiment analysis for a text

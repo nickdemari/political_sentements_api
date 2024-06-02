@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tweepy
+python-dotenv
+pydantic
+facebook-sdk
+requests
+nltk
